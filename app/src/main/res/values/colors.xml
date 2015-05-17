@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">@color/color_mtn_yellow</color>
+    <color name="primaryColorDark">@color/color_mtn_sand</color>
+    <!--<color name="color_yellow_600">#FFB300</color>-->
+    <color name="accentColor">@color/color_mtn_blue</color>
+
+    <color name="app_color_white">#FFFFFF</color>
+    <color name="app_color_black">#000000</color>
+    <color name="app_color_gris_800">#424242</color>
+    <color name="app_color_gris">#FFC2C2C2</color>
+    <color name="app_color_blue_a400">#ff1E88E5</color>
+    <color name="app_color_red">#FFFF0000</color>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="color_transparent" >#00000000</color> 
+    
+    <!-- Couleur standard de MTN CI -->
+    <color name="color_mtn_yellow" >#ffbe00</color> 
+    
+    <color name="color_mtn_darkgrey" >#373737</color> 
+    
+    <color name="color_mtn_lightgrey" >#dedede</color>
+    
+    <color name="color_mtn_sand" >#927100</color> 
+    
+    <color name="color_mtn_blue" >#027fa3</color> 
+    
+    <color name="color_mtn_white" >#ffffff</color> 
+    
+</resources>
